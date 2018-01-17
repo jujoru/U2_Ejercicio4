@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="RelativeLayoutPrincipal">
+        <item name="android:padding">@dimen/padding10</item>
+        <item name="android:background">@color/colorLayoutPrincipal</item>
+    </style>
+
+    <style name="LinearLayoutCabecera">
+        <item name="android:background">@drawable/fondo</item>
+        <item name="android:layout_marginBottom">@dimen/padding10</item>
+    </style>
+
+    <style name="LinearLayoutBotonera">
+        <item name="android:background">@color/colorBlanco</item>
+        <item name="android:padding">@dimen/padding10</item>
+    </style>
+
+    <style name="LinerLayoutFormulario">
+        <item name="android:padding">@dimen/padding15</item>
+        <item name="android:background">@color/colorBlanco</item>
+        <item name="android:layout_marginLeft">@dimen/padding10</item>
+    </style>
+
+    <style name="BotonMenu">
+        <item name="android:background">@drawable/style_boton_menu</item>
+        <item name="android:layout_marginBottom">@dimen/padding10</item>
+        <item name="android:textColor">@color/colorNaranja</item>
+    </style>
+
+    <style name="EditTextFormulario">
+        <item name="android:background">@drawable/style_editext_formulario</item>
+        <item name="android:layout_marginBottom">@dimen/padding15</item>
+    </style>
+
+    <style name="TextViewPrincipal">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">24dp</item>
+        <item name="android:textColor">@color/colorNaranja</item>
+        <item name="android:layout_marginBottom">@dimen/padding10</item>
+    </style>
+
+    <style name="BotonFormulario">
+        <item name="android:background">@drawable/style_boton_formulario</item>
+    </style>
+
+    <style name="LinearLayoutIzquierda">
+        <item name="android:background">@drawable/style_layout_izquierda</item>
+    </style>
+</resources>

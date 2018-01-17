@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">U2_Ejercicio4</string>
+
+    <string name="botonMenu1">Menu</string>
+    <string name="botonMenu2">Opciones</string>
+    <string name="botonMenu3">Configuracion</string>
+    <string name="botonFormulario">GUARDAR</string>
+    <string name="checkbox">Acepto</string>
+
+    <string name="tv_principal">DATOS</string>
+    <string name="tv_nombre">Nombre</string>
+    <string name="tv_apellido">Apellido</string>
+    <string name="tv_edad">Edad</string>
+</resources>
